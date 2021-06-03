@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance of Londons occurrences in a brief, real, and ingenius demonstration of all particulars and the bundle of newes that flying report doth annunciate in all matters describing the absolute and present estate of the Common-wealth and which way the fancies and opinions of men are carried in these troubles of the Kingdome : also prescribing solid counsell to the ignorant, how to know the fashions of London and to discourse prudently of the whole estate of this Kingdome : replenished with many witty conceits and humours with divers ingenious passages inviting the readers observation and judgement.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28893</idno><idno type="EEBO-CITATION">12119240</idno>
+  <idno type="VID">197014</idno>
+  <idno type="EEBO-PROQUEST">2264208158</idno>
+  
+            <idno type="STC">Wing R990</idno>
+            <idno type="STC">ESTC R21219</idno>
+            <idno type="OCLC">12119240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197014)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E87, no 9 or 249:E130, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance of Londons occurrences in a brief, real, and ingenius demonstration of all particulars and the bundle of newes that flying report doth annunciate in all matters describing the absolute and present estate of the Common-wealth and which way the fancies and opinions of men are carried in these troubles of the Kingdome : also prescribing solid counsell to the ignorant, how to know the fashions of London and to discourse prudently of the whole estate of this Kingdome : replenished with many witty conceits and humours with divers ingenious passages inviting the readers observation and judgement.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date from Thomason Collection.</note>
+                  <note>Another edition with imprint: [London] Printed for Tho. Powel, July 2, 1642.</note>
+                  <note>Reel 242:E.87, no. 9 has ms note on t.p. Jan. 31, 1642 ; reel 249:E.130, no. 21 has ms note on t.p. Novemb. 14, 1642.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197014:1"/>
+            <p>A Remonstrance of LONDONS OCCURRENCES IN A BRIEF, REAL, AND INGENIUS Demonstration of all particulars, and the bundle of Newes that flying Report doth annunciate in all matters.</p>
+            <p>Describing the absolute and present estate of the Common-wealth, and which way the Fancies and Opinions of men are carried in these troubles of the Kingdome.</p>
+            <p>Also prescribing solid Counsell to the ignorant, how to know the fashions of <hi>London,</hi> and to discourse prudently of the whole estate of this Kingdome.</p>
+            <p>Replenished with many witty conceits and hu<g ref="char:EOLhyphen"/>mours, with divers ingenious passages invi<g ref="char:EOLhyphen"/>ting the Readers observation, and Judgement.</p>
+            <p>
+               <hi>Vir sapit qui pauca loqnitur.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197014:2"/>
+            <pb facs="tcp:197014:2"/>
+            <head>The Map of <hi>Londons</hi> Occurrences.</head>
+            <p>IN Taverns and in other meeting places, when mat<g ref="char:EOLhyphen"/>ters of Consequence fell to be the Subject of Dis<g ref="char:EOLhyphen"/>course, it was formerly a custome to say, be it spo<g ref="char:EOLhyphen"/>ken under the Rose; but now when discord hath made mens tongues wrangle and jangle, it will be good for every one in the heat of their Arguments and Dis<g ref="char:EOLhyphen"/>courses to stay the claper of their conceits, with this old Proverb, fit to be applyed for these times, namely, <hi>vir sapit qui pauca loquitur.</hi>
+            </p>
+            <q>
+               <l>The man is wise that few words speakes,</l>
+               <l>Rash speaking often the neck breakes.</l>
+            </q>
+            <p>For what has every one to do to be a censurer of his brother, we raise up ridiculous reports of <hi>Round-heads,</hi> and they undergo this mocking Character in the judg<g ref="char:EOLhyphen"/>ment of the Cavaliers, that they are a company of thick skul'd fellowes, who are the Idolaters of ignorance, and love to be factious; well, admit they would have no Service, but call it porridge, and think it to be no suttle brain to compose their entoxicated opinions; Suppose they cannot endure to see a Crosse, but will start &amp; run back from it! Alas, they love good Coyn both in Gold and silver, though the impression and figure of a Crosse be stamp'd theron must I when I am tottering upon the Ale bench, and the Divell like a fly dancing about the candle, while every thing appears like a blew fogg or mist about me; must I or any one needs cast up our ma<g ref="char:EOLhyphen"/>lice
+<pb facs="tcp:197014:3"/> in rayling against <hi>Round-heads,</hi> no, no, <hi>vir sapit qui pauca loquittur,</hi> it is a good Motto fit to be learnt of old and young, to shew them how to rule their tongue; for in this Age, the man is wise that few words speaks.</p>
+            <p>Now what sayes the Round-heads againe of the Ca<g ref="char:EOLhyphen"/>valeer, but that in regard of their long haire they may be said to weare a horses tayle, that they are nothing but the desperate sonnes of furious faction and fawning favour, and that they are very busie and daring in most places, and especially in the North, but whether this be true or not, <hi>vir sapit qui pauca <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oquitur,</hi> hee is wise that speaketh few words.</p>
+            <p>As for Clergie men, it may bee they were faulty, perhaps they had more Religion in their habits and Hoods, than they had in their hearts, <hi>I</hi> have knowne many a Dunce has got a Benefice, while the better Scholler has read prayers; and besides some of that coat were most compleatly proud, and some of them h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, as it is generally knowne, preacht in the Pulpit like Players on the Stage, only to get themselves rich wives, but <hi>I</hi> need not pick holes in their coates, some poore Schollers Cassocks and cloakes are thread-bare enough already, and therefore, <hi>Vir sapit qui pauca lo<g ref="char:EOLhyphen"/>quitur,</hi> he is wise that speakes few words.</p>
+            <p>But there was never such a confusion of babling and pro and conning or cunning, you shall not finde three men agree in one opinion, but now they talke of the King, and then of the Parliament, as it happens and chan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and conclude with prayets for both; but let discreet knowing judgements meddle with their Mar<g ref="char:EOLhyphen"/>kets, and not with State matters, let them talke and thinke with reverence of the King and his gteat Coun<g ref="char:EOLhyphen"/>sell the Parliament, ever praying for the prosperity of both, and the tranquility and peace of the Kingdome, <hi>vir sapit qui pauca loquitur,</hi> few words are wisest in all
+<pb facs="tcp:197014:3"/> matters. Suppose I see a woman and her husband fal<g ref="char:EOLhyphen"/>ling out together, she scoulds and rayles upon him, calls him Rogue and Rascall, the people they passe by and none give them a word, perhaps he's a drunken Cuck<g ref="char:EOLhyphen"/>old that spends at the Ale-house that which should maintaine his wife and children, and shee playes the light huswife and gives him monstrous hornes; will any one therefore be so foolish to speake what hee thinkes, and call his next Neighbour Knave, and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s wife Whore; no, no, <hi>vir sapit qui pauca loquitur.</hi> Some againe talke of the Irish Warres, and they imagine the Rebels are all conquered, others suppose that the bu<g ref="char:EOLhyphen"/>sinesse slowly forward, and that there is a malignant party at home, and that there are more Counsellours then those of the Law, but mum there, <hi>vir s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pit qui pauca loquitur,</hi> fewest words are safest and wisest.</p>
+            <p>Pride is growne so rampant, that the Devils is tired with inventing new fashions, come to a great man as a distressed sonne of the Muses, and his Porter will al<g ref="char:EOLhyphen"/>most frowne you out of the Hall, at last if your Booke be preferr'd to fall into the Lords Lands, you shall be bound <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pray for his Honours halfe peece of bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntie, bestow'd on your outside in p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tty of your case while a Whore shall have her whole pieces for a wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke of one houres performance, but <hi>vir sapit qui pauca loquitur.</hi> But where are your Lawyers now with their suits lon<g ref="char:EOLhyphen"/>ger and more tedious than their Gownes, there was so much bribery in their practises, so much colourable deceit in their Councels, and such jugling of convey<g ref="char:EOLhyphen"/>ances under hand to defraud the true Heire, so that now if they were all turnd into Rookes they might live in some great Wood, for the Land has cast them up, and will be cheated no more by such fire-brands of diss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>tion, that eate up the poore like bead, but <hi>vir sapit qui pauca loquitur,</hi> few words are wisest and best.</p>
+            <pb facs="tcp:197014:4"/>
+            <p>There was a Maid-servant cal'd Faith, and she was turn'd out of service, and I think Faith is turn'd out of a great many houses into the street; for the Divels have an intellectuall Faith, but no cordiall and spirituall Be<g ref="char:EOLhyphen"/>liefe, so that these seeming Fideans and Believers, are but white Divels.</p>
+            <p>There was a Letter brought to a Gentleman tother day, that contained merry News, good News, and true News: the merry News was, that the Yorkshire Maids have put down many of your Gallants at their own wea<g ref="char:EOLhyphen"/>pons, and that there are more wenches with child than ever was knowne in those Countries: But what was the true and good Newes? it was neither concerning this or that businesse, but onely of two Cheeses that a friend of his certified him he had sent him up by the Carrier, and there was no harme in all this, for, <hi>Vir sapit qui pauca loquitur.</hi>
+            </p>
+            <q>
+               <l>The man was wise that fewest words did use,</l>
+               <l>For he to write of Cheese did onely chuse.</l>
+            </q>
+            <p>Now as for <hi>Hull</hi> it is a strong Towne well seated and well victualled, it is strong in two respects; both for scituation and Munition, and stronger fort he sent of pitch and tarre that comes from the shippes, and it may also be said to be strong, because there is good strong drinke and wine therein, but for other matters, <hi>Vir sapit qui pauca loquitur,</hi> the man is wise that speaks few words.</p>
+            <p>As concerning a Declaration, it is an expression of the mind and thoughts, by word and writing, as a De<g ref="char:EOLhyphen"/>claration at Law is an expression of wrongs and grie<g ref="char:EOLhyphen"/>vances: A Love-letter is a kind of Declaration, wher<g ref="char:EOLhyphen"/>in he maketh knowne to his sweet-heart by the pre<g ref="char:EOLhyphen"/>sent contents of his Letter, that he is bound unto her in the utmost obligation of love and affection, but to speak of that or this Declaration of supreame and high con<g ref="char:EOLhyphen"/>sequence,
+<pb facs="tcp:197014:4"/>
+               <hi>vir sapit qui pauca loquitur,</hi> hee's wise that speakes few words: There's no harme in all this, were it not a mad thing for a man to burne his lippes with supping hot pottage, to talke or write himselfe into prison, as the notable Tub-Lectures the right unworthy Mr. <hi>Walker</hi> the Ironmonger hath done, and make the Proverbe true:
+<q>
+                  <l>That man in prison oftentimes shall sit,</l>
+                  <l>Whose tongue in prating doth exceed his wit▪</l>
+               </q>
+            </p>
+            <p>There have been other praters and railers, who have got nothing but to be tyed up like Mastiffe Dogges for barking, some against one person, some against an o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and some at their owne shaddowes, such vehement spirits are fit to be confin'd, for they would bring all to ruine, could their power be as unbounded as their ma<g ref="char:EOLhyphen"/>lice is; but they and all such may learne, <hi>vir sapit qui pauca loquitur,</hi> he's wisest that speakes fewest words.</p>
+            <p>There are another company of ignorant spirits that know not what Militia or Anarchy is, and yet they apprehend them as fearefull notions, and will talke as farre from the purpose as a blinde mans Arrow flyes from the marke, and all their Argument is their owne weake foolish opinion, these talke of matters at Bake<g ref="char:EOLhyphen"/>houses, Barbers shops, and Ale-houses, and especially women, for they will hold a thing stiffely by the end, especially when it comes within the compasse of their capacitie, but <hi>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r sapi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qui p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uca loqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur▪</hi> the man is wise that speaketh few words; but where the woman is that speakes few words, is hard to be found, unlesse she be asleepe, or laid in her grave; let women there<g ref="char:EOLhyphen"/>fore talke as they are, like Parrets of Religion, of Bi<g ref="char:EOLhyphen"/>shops, of the Service of the Church, and the govern<g ref="char:EOLhyphen"/>ment thereof, let them praise <hi>Tom Brownist,</hi> and <hi>Timo<g ref="char:EOLhyphen"/>thy Troublesome</hi> his companion L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cturer, and let them talke of newes from <hi>Yorke,</hi> from <hi>Ireland,</hi> and tell newes
+<pb facs="tcp:197014:5"/> without booke to exercise their tongues, which can never lye still no more then their tayles: But let men speake with gravity of matters of Religion and Piety, let them speake <hi>nihil nisi bonum de principibus, &amp; de Parliamento,</hi> nothing but good of the King and the Parliament, and let them think on this Caveat in their Discourse, <hi>Vir sapit qui pauca loquitur.</hi>
+            </p>
+            <q>
+               <l>That man is wise, and still shall live at rest,</l>
+               <l>That speakes few words, or else doth speak the best.</l>
+            </q>
+            <div type="poem">
+               <l>Why should common people</l>
+               <l>of high matters talke,</l>
+               <l>And let their bold tongue</l>
+               <l>before their wits walke;</l>
+               <l>Let him that his wisest use</l>
+               <l>words few and least,</l>
+               <l>Of the King and the Parliament</l>
+               <l>still speake the best:</l>
+               <l>Then warily and charily</l>
+               <l>let us all sing,</l>
+               <l>And pray God to blesse</l>
+               <l>this Land and the King.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
